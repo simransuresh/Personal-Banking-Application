@@ -1,5 +1,7 @@
 # Personal-Banking-Application
 
+Project duration: April 2019
+
 Individualistic and personal banking experience.  
 
 Minimalistic design with options to 
