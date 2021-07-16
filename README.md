@@ -1,6 +1,6 @@
 # Personal-Banking-Application
 
-Project duration: April 2019
+Project timeline: April 2019
 
 Individualistic and personal banking experience.  
 
